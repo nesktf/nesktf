@@ -1,4 +1,4 @@
-Hello, I'm nesktf. I'm some random guy that likes programming fun things.
+Hello, I'm nesktf. I'm some random guy who likes programming fun things.
 
 I like to do projects in low level languages like C and C++. My favorite kind of projects are usually those related to game engines or embedded systems, some examples are:
 - [ranmath](https://github.com/nesktf/ranmath): A linear algebra library that is similar to GLM.
